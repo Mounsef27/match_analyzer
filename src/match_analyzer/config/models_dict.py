@@ -1,0 +1,28 @@
+models_dict: dict[str, dict[str, str]] = {
+    "google_models": {
+        "gemma-2b": "google/gemma-2b",
+        "gemma-2b-it": "google/gemma-2b-it",
+        "gemma-7b": "google/gemma-7b",
+        "gemma-7b-it": "google/gemma-7b-it",
+        "gemma-2-2b": "google/gemma-2-2b",
+        "gemma-2-2b-it": "google/gemma-2-2b-it",
+        "gemma-2-9b": "google/gemma-2-9b",
+        "gemma-2-9b-it": "google/gemma-2-9b-it",
+        "gemma-2-27b": "google/gemma-2-27b",
+        "gemma-2-27b-it": "google/gemma-2-27b-it",
+        "gemma-3-270m": "google/gemma-3-270m",
+        "gemma-3-270m-it": "google/gemma-3-270m-it",
+        "gemma-3-1b": "google/gemma-3-1b-pt",
+        "gemma-3-1b-it": "google/gemma-3-1b-it",
+        "gemma-3-4b": "google/gemma-3-4b-pt",
+        "gemma-3-4b-it": "google/gemma-3-4b-it",
+        "gemma-3-12b": "google/gemma-3-12b-pt",
+        "gemma-3-12b-it": "google/gemma-3-12b-it",
+        "gemma-3-27b": "google/gemma-3-27b-pt",
+        "gemma-3-27b-it": "google/gemma-3-27b-it",
+        "gemma-3n-e2b": "google/gemma-3n-E2B",
+        "gemma-3n-e2b-it": "google/gemma-3n-E2B-it",
+        "gemma-3n-e4b": "google/gemma-3n-E4B",
+        "gemma-3n-e4b-it": "google/gemma-3n-E4B-it",
+    }
+}
